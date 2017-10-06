@@ -1,2 +1,1 @@
-# node-curl-jq
-Node with curl and jq 
+# Dockerfiles with node, curl and jq
