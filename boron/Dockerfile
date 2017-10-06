@@ -1,4 +1,4 @@
 FROM node:boron
 
-apt-get update
-apt-get install curl jq -y
+RUN apt-get update
+RUN apt-get install curl jq -y
